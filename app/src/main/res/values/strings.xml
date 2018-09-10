@@ -3,4 +3,6 @@
     <string name="manager_name">Manager:</string>
     <string name="url">URL</string>
     <string name="main_info">Main information</string>
+    <string name="CPM">CPM</string>
+    <string name="link_of_pos">Link of position</string>
 </resources>
