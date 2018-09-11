@@ -5,4 +5,6 @@
     <string name="main_info">Main information</string>
     <string name="CPM">CPM</string>
     <string name="link_of_pos">Link of position</string>
+    <string name="counnt">Count</string>
+    <string name="from_to_num">0,4 - 1,2</string>
 </resources>
